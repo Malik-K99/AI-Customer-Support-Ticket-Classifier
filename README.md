@@ -28,9 +28,10 @@ A Python web application that uses Google's Gemini API to analyse customer suppo
 
 4. Create a `.env` file based on `.env.example` and add your Gemini API key.
 5. Start the application with:
-
+   ```bash
    streamlit run app.py
-
+   ```
+   
 ## Notes
 A Gemini API key is required. API availability and free-tier usage limits may vary. Use fictional or anonymised customer messages when testing.
 
