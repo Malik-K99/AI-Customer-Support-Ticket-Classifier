@@ -22,8 +22,9 @@ A Python web application that uses Google's Gemini API to analyse customer suppo
 1. Clone this repository.
 2. Create and activate a virtual environment.
 3. Install dependencies with:
-
+   ```bash
    pip install -r requirements.txt
+   ```
 
 4. Create a `.env` file based on `.env.example` and add your Gemini API key.
 5. Start the application with:
